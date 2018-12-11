@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Museos La Paz</string>
+    <string name="app_Titulo">Museos de la ciudad de La Paz</string>
+    <string name="detalle.tv.nombre">Nombre</string>
+
+    <string name="main.m1.titulo">Museo Costumbrista "Juan de Vargas"</string>
+    <string name="main.m2.titulo">Museo de Metales Preciosos</string>
+    <string name="main.m3.titulo">Museo del Litoral Boliviano</string>
+    <string name="main.m4.titulo">Museo Casa de Murillo</string>
+    <string name="main.m5.titulo"></string>
+    <string name="main.m6.titulo"></string>
+    <string name="main.m7.titulo"></string>
+    <string name="main.m8.titulo"></string>
+    <string name="main.m9.titulo"></string>
+
+</resources>

@@ -7,10 +7,14 @@
     <string name="main.m2.titulo">Museo de Metales Preciosos</string>
     <string name="main.m3.titulo">Museo del Litoral Boliviano</string>
     <string name="main.m4.titulo">Museo Casa de Murillo</string>
-    <string name="main.m5.titulo"></string>
-    <string name="main.m6.titulo"></string>
-    <string name="main.m7.titulo"></string>
+    <string name="main.m5.titulo">Museo de Instrumentos Musicales de Bolivia</string>
+    <string name="main.m6.titulo">Museo Tambo Quirquincho</string>
+    <string name="main.m7.titulo">Museo de Etnografia y Folklore</string>
     <string name="main.m8.titulo"></string>
     <string name="main.m9.titulo"></string>
+    <string name="main.m10.titulo"></string>
+    <string name="main.m11.titulo"></string>
+    <string name="main.m12.titulo"></string>
+    <string name="main.m13.titulo"></string>
 
 </resources>
